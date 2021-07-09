@@ -1,29 +1,11 @@
-# my_first_project
+# My First Project w/ `Vue.js`
 
-## Project setup
-```
-yarn install
-```
+![Code image](docs/img/code__something.jpeg)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+I'm going to use this repo, to learn VueJS.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+If you check anything weird or random, as always... Let me know, 
+but most of the time, I'm going to test things. 
 
-### Run your unit tests
-```
-yarn test:unit
-```
+Have fun, with my progress!
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
